@@ -10,11 +10,11 @@
 			<sparkle:releaseNotesLink>
 				https://raw.githubusercontent.com/dnkrshvch/CommercialProjectBAA_Updates/main/ReleaseNotes_v1.0.0.txt
 			</sparkle:releaseNotesLink>
-			<pubDate>Mon, 15 Mar 2026 12:00:00 +0000</pubDate>
-			<enclosure url="https://github.com/dnkrshvch/CommercialProjectBAA_Updates/releases/download/v1.0.0/AuditFlowSetup.exe"
+			<pubDate>Mon, 01 Apr 2026 21:00:00 +0000</pubDate>
+			<enclosure url="https://github.com/dnkrshvch/CommercialProjectBAA_Updates/releases/download/v1.1.0/AuditFlow_v1.1.0.zip"
 					   sparkle:version="1.1.0"
 					   sparkle:os="windows"
-					   type="application/octet-stream" />
+					   type="application/zip" />
 		</item>
 	</channel>
 </rss>
