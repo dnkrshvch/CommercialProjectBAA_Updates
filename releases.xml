@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-	<channel>
-		<title>AuditFlow Updates</title>
-		<link>https://github.com/dnkrshvch/CommercialProjectBAA_Updates</link>
-		<description>Updates for AuditFlow</description>
-
-		<item>
-			<title>v1.0.0</title>
-			<sparkle:releaseNotesLink>
-				https://raw.githubusercontent.com/dnkrshvch/CommercialProjectBAA_Updates/main/ReleaseNotes_v1.0.0.txt
-			</sparkle:releaseNotesLink>
-			<pubDate>Mon, 01 Apr 2026 21:00:00 +0000</pubDate>
-			<enclosure url="https://github.com/dnkrshvch/CommercialProjectBAA_Updates/releases/download/v1.1.0/AuditFlow1.0.0.exe"
-					   sparkle:version="1.1.0"
-					   sparkle:os="windows"
-					   type="application/octet-stream" />
-		</item>
-	</channel>
+    <channel>
+        <title>AuditFlow Updates</title>
+        <description>Updates for AuditFlow application</description>
+        <language>ru</language>
+        
+        <item>
+            <title>AuditFlow 1.1.0</title>
+            <description>
+                <![CDATA[
+                    <h3>Что нового в версии 1.1.0</h3>
+                    <ul>
+                        <li>Обновление через GitHub Releases</li>
+                        <li>Улучшена стабильность</li>
+                        <li>Исправлены ошибки</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 01 Apr 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <enclosure 
+                url="https://github.com/dnkrshvch/CommercialProjectBAA/releases/download/v1.1.0/AuditFlow1.0.exe" 
+                sparkle:version="1.1.0"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
 </rss>
