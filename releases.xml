@@ -21,7 +21,7 @@
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <enclosure 
-                url="https://github.com/dnkrshvch/CommercialProjectBAA_Updates/releases/download/v1.1.0/AuditFlowSetup_1.0.1.exe" 
+                url="https://github.com/dnkrshvch/CommercialProjectBAA_Updates/releases/download/v1.0.1/AuditFlowSetup_1.0.1.exe" 
                 sparkle:version="1.0.1"
                 type="application/octet-stream" />
         </item>
